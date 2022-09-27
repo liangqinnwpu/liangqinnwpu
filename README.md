@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @liangqinnwpu
+- 👀 I’m interested in CFD and fluid mechanics
+- 🌱 I’m currently learning OpenFOAM,Python,Latex and vim
+- 💞️ I’m looking to collaborate on OpenFOAM especially on spectral methods
+- 📫 How to reach me,my E-mail is liangqinnwpu@163.com
